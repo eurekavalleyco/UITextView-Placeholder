@@ -17,7 +17,7 @@
 
 #pragma mark - // DEFINITIONS (Private) //
 
-#define DEFAULT_ALPHA 0.33f
+#define DEFAULT_ALPHA 0.25f
 
 @implementation UITextView (Placeholder)
 
